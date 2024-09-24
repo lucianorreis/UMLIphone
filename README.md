@@ -3,7 +3,7 @@
 
 ## Este é um diagrama UML que representa a estrutura de classes e interfaces para um sistema que inclui a modelagem do iPhone, um dispositivo que incorpora funcionalidades de um reprodutor de música, um telefone e um navegador de internet. Este diagrama foi criado como parte do desafio de projeto do Claro Bootcamp - Java
 
-![alt text]([http://url/to/img.png](https://github.com/lucianorreis/UMLIphone/blob/main/iphone.png))
+![alt text](https://github.com/lucianorreis/UMLIphone/blob/main/iphone.png)
 
 Descrição das Interfaces e Classes
 Reprodutor Musical (ReprodutorMusical)
